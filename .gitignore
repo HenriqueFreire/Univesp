@@ -1,0 +1,35 @@
+# Binários e arquivos compilados
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.app
+build/
+bin/
+obj/
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.directory
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ambientes virtuais e pacotes
+.direnv/
+result
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+
+# Logs e temporários
+*.log
+*.tmp
