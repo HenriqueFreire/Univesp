@@ -23,7 +23,7 @@ flowchart TD
 * [ ] [`INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/): **80h** (10h/semana) — *Metodologia Científica, Pesquisa, Normas e Comunicação Acadêmica* (Profª Dra. Graziella R. S. Moura).
   * Critério de Avaliação: $MF = 0,6 \times N_1 + 0,4 \times N_2$
   * [**Semana 1** (28/09)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-1): Senso comum e ciência — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-2): Fundamentos da metodologia científica e técnicas de pesquisa
+  * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-2): Fundamentos da metodologia científica e técnicas de pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-3): Comunicação científica: rigor e ética em pesquisa
   * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4): Organização de trabalho científico
   * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5): Base de dados científicos (fontes quantitativas e qualitativas)
@@ -43,6 +43,6 @@ flowchart TD
 ---
 
 ## ⏳ Próximos Passos
-- Concluir os materiais e atividades da **Semana 2 de INT100** (`2-Texto-base.md` a `6-Em-sintese.md`).
+- Iniciar os estudos e materiais da **Semana 3 de INT100** (*Comunicação científica: rigor e ética em pesquisa*) e **Semana 3 de MMB002** (*Equivalências e estratégias de cálculo*).
 - Dar continuidade à leitura e exercícios práticos da trilha de livros em C++ (Bjarne Stroustrup).
 
