@@ -39,6 +39,6 @@ Ao final desta quinzena, você vai conseguir:
 
 * [x] **01. Reconhecimento dos Três Sinais do Padrão:** Apontar os três sinais do padrão num texto pronto, sabendo que eles não provam quem escreveu o texto.
 * [x] **02. Apropriação Crítica de Ideias:** Explicar, com as suas palavras, por que uma ideia que veio da ferramenta funciona e o que responder a quem discorda dela.
-* [ ] **03. Auditoria de Revisão e Tradução:** Conferir o que uma ferramenta mudou ao revisar um texto, inclusive em outra língua, e pedir a revisão dizendo onde ela deve olhar.
-* [ ] **04. Matriz de Rastreabilidade Textual:** Indicar de onde veio cada parágrafo de um texto com as palavras **Meu**, **Aceito**, **Modificado** e **Recusado**, registrando o motivo.
-* [ ] **05. Autoria Assistida e Defesa por Escrito:** Escrever um texto com a ferramenta, registrar a origem de cada parágrafo e defender por escrito uma ideia que veio dela.
+* [x] **03. Auditoria de Revisão e Tradução:** Conferir o que uma ferramenta mudou ao revisar um texto, inclusive em outra língua, e pedir a revisão dizendo onde ela deve olhar.
+* [x] **04. Matriz de Rastreabilidade Textual:** Indicar de onde veio cada parágrafo de um texto com as palavras **Meu**, **Aceito**, **Modificado** e **Recusado**, registrando o motivo.
+* [x] **05. Autoria Assistida e Defesa por Escrito:** Escrever um texto com a ferramenta, registrar a origem de cada parágrafo e defender por escrito uma ideia que veio dela.
