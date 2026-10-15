@@ -24,7 +24,7 @@ flowchart TD
   * Critério de Avaliação: $MF = 0,6 \times N_1 + 0,4 \times N_2$
   * [**Semana 1** (28/09)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-1): Senso comum e ciência — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-2): Fundamentos da metodologia científica e técnicas de pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-3): Comunicação científica: rigor e ética em pesquisa
+  * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-3): Comunicação científica: rigor e ética em pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4): Organização de trabalho científico
   * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5): Base de dados científicos (fontes quantitativas e qualitativas)
   * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-6): Desenvolvimento e planejamento do projeto de pesquisa
@@ -43,7 +43,7 @@ flowchart TD
 ---
 
 ## ⏳ Próximos Passos
-- Realizar a postagem no **Fórum Temático da Semana 3 de MMB002** (*Desafio do Relógio Atômico*).
-- Iniciar os estudos e materiais da **Semana 3 de INT100** (*Comunicação científica: rigor e ética em pesquisa*).
-- Preparar a **Semana 4 de MMB002** (*Proporcionalidade, representação e linguagem matemática*).
+- Realizar as postagens nos **Fóruns Temáticos da Semana 3** no AVA (MMB002 e INT100).
+- Iniciar os estudos da **Semana 4 de MMB002** (*Proporcionalidade, representação e linguagem matemática*).
+- Iniciar os estudos da **Semana 4 de INT100** (*Organização de trabalho científico*).
 

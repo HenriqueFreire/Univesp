@@ -29,7 +29,7 @@
 | :---: | :---: | :--- | :---: |
 | [**Semana 1**](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-1) | 28/09 | **Senso comum e ciência** | 🟢 Concluído (10/10) |
 | [**Semana 2**](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-2) | 05/10 | **Fundamentos da metodologia científica e técnicas de pesquisa** | 🟢 Concluído (10/10) |
-| [**Semana 3**](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-3) | 12/10 | **Comunicação científica: rigor e ética em pesquisa** | ⏳ Não iniciado |
+| [**Semana 3**](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-3) | 12/10 | **Comunicação científica: rigor e ética em pesquisa** | 🟢 Concluído (10/10) |
 | [**Semana 4**](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4) | 19/10 | **Organização de trabalho científico** | ⏳ Não iniciado |
 | [**Semana 5**](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5) | 26/10 | **Base de dados científicos: características, procedimentos e fontes de pesquisas quantitativas e qualitativas** | ⏳ Não iniciado |
 | [**Semana 6**](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-6) | 02/11 | **Desenvolvimento do projeto de pesquisa / Planejamento e elaboração de pesquisa** | ⏳ Não iniciado |
