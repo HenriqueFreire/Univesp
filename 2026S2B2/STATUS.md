@@ -34,7 +34,7 @@ flowchart TD
   * [**0-Apresentação da Disciplina**](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/0-Apresentacao-da-Disciplina.md)
   * [**Semana 1** (28/09)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-1): Números: significado numérico, operações e propriedades aritméticas — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-2): Relações numéricas — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-3): Equivalências e estratégias: modalidades de cálculo
+  * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-3): Equivalências e estratégias: modalidades de cálculo — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-4): Proporcionalidade, representação e linguagem matemática
   * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5): Equações
   * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6): Funções: conceitos e representações (+ Tópicos especiais: Combinatória, probabilidade, tratamento de dados)
@@ -43,6 +43,7 @@ flowchart TD
 ---
 
 ## ⏳ Próximos Passos
-- Iniciar os estudos e materiais da **Semana 3 de INT100** (*Comunicação científica: rigor e ética em pesquisa*) e **Semana 3 de MMB002** (*Equivalências e estratégias de cálculo*).
-- Dar continuidade à leitura e exercícios práticos da trilha de livros em C++ (Bjarne Stroustrup).
+- Realizar a postagem no **Fórum Temático da Semana 3 de MMB002** (*Desafio do Relógio Atômico*).
+- Iniciar os estudos e materiais da **Semana 3 de INT100** (*Comunicação científica: rigor e ética em pesquisa*).
+- Preparar a **Semana 4 de MMB002** (*Proporcionalidade, representação e linguagem matemática*).
 
