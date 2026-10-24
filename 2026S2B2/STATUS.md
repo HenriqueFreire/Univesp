@@ -25,7 +25,7 @@ flowchart TD
   * [**Semana 1** (28/09)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-1): Senso comum e ciência — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-2): Fundamentos da metodologia científica e técnicas de pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-3): Comunicação científica: rigor e ética em pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4): Organização de trabalho científico
+  * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4): Organização de trabalho científico — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5): Base de dados científicos (fontes quantitativas e qualitativas)
   * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-6): Desenvolvimento e planejamento do projeto de pesquisa
   * [**Semana 7** (09/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-7): Revisão da disciplina
@@ -35,7 +35,7 @@ flowchart TD
   * [**Semana 1** (28/09)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-1): Números: significado numérico, operações e propriedades aritméticas — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-2): Relações numéricas — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-3): Equivalências e estratégias: modalidades de cálculo — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-4): Proporcionalidade, representação e linguagem matemática
+  * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-4): Proporcionalidade, representação e linguagem matemática — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5): Equações
   * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6): Funções: conceitos e representações (+ Tópicos especiais: Combinatória, probabilidade, tratamento de dados)
   * [**Semana 7** (09/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-7): Revisão da disciplina
@@ -43,7 +43,9 @@ flowchart TD
 ---
 
 ## ⏳ Próximos Passos
-- Realizar as postagens nos **Fóruns Temáticos da Semana 3** no AVA (MMB002 e INT100).
-- Iniciar os estudos da **Semana 4 de MMB002** (*Proporcionalidade, representação e linguagem matemática*).
-- Iniciar os estudos da **Semana 4 de INT100** (*Organização de trabalho científico*).
+- Realizar a postagem no **Fórum Temático da Semana 4 de INT100** no AVA ([`4.2-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4/4.2-Forum-tematico.md)).
+- Realizar a postagem no **Fórum Temático da Semana 4 de MMB002** no AVA ([`6-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-4/6-Forum-tematico.md)).
+- Iniciar os estudos da **Semana 5** (início previsto para 26/10):
+  * MMB002: *Equações*;
+  * INT100: *Bases de dados científicos (fontes quantitativas e qualitativas)*.
 
