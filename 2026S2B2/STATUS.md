@@ -2,7 +2,7 @@
 
 > **Bimestre:** 2º Semestre de 2026 — 2º Bimestre (Bimestre Par)  
 > **Curso:** Bacharelado em Engenharia de Computação (Univesp)  
-> **Última Atualização:** 10 de outubro de 2026  
+> **Última Atualização:** 27 de outubro de 2026  
 
 ---
 
@@ -36,7 +36,7 @@ flowchart TD
   * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-2): Relações numéricas — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-3): Equivalências e estratégias: modalidades de cálculo — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-4): Proporcionalidade, representação e linguagem matemática — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5): Equações
+  * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5): Equações — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6): Funções: conceitos e representações (+ Tópicos especiais: Combinatória, probabilidade, tratamento de dados)
   * [**Semana 7** (09/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-7): Revisão da disciplina
 
@@ -44,8 +44,6 @@ flowchart TD
 
 ## ⏳ Próximos Passos
 - Realizar a postagem no **Fórum Temático da Semana 4 de INT100** no AVA ([`4.2-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4/4.2-Forum-tematico.md)).
-- Realizar a postagem no **Fórum Temático da Semana 4 de MMB002** no AVA ([`6-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-4/6-Forum-tematico.md)).
-- Iniciar os estudos da **Semana 5** (início previsto para 26/10):
-  * MMB002: *Equações*;
-  * INT100: *Bases de dados científicos (fontes quantitativas e qualitativas)*.
+- Realizar a postagem no **Fórum Temático da Semana 5 de MMB002** no AVA ([`6-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5/6-Forum-tematico.md)).
+- Iniciar os estudos da **Semana 5 de INT100** (início em 26/10): *Bases de dados científicos (fontes quantitativas e qualitativas)*.
 
