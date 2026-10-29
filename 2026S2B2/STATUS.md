@@ -37,7 +37,7 @@ flowchart TD
   * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-3): Equivalências e estratégias: modalidades de cálculo — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-4): Proporcionalidade, representação e linguagem matemática — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5): Equações — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6): Funções: conceitos e representações (+ Tópicos especiais: Combinatória, probabilidade, tratamento de dados)
+  * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6): Funções: conceitos e representações — **EM ANDAMENTO** (Início, Desafio de Bia e Validador C++ concluídos) 🟡
   * [**Semana 7** (09/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-7): Revisão da disciplina
 
 ---
@@ -48,6 +48,8 @@ flowchart TD
   - INT100 Semana 5 ([`4.3-Forum-tematico-postagem.txt`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5/4.3-Forum-tematico-postagem.txt))
   - INT100 Semana 6 ([`4.1-Forum-tematico-postagem.txt`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-6/4.1-Forum-tematico-postagem.txt))
   - MMB002 Semana 5 ([`6-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5/6-Forum-tematico.md))
-- Iniciar a **Semana 6 de Matemática Básica (MMB002)**: *Funções: conceitos e representações* ([`Semana-6/`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6)).
+  - MMB002 Semana 6 ([`6.1-Forum-tematico-postagem.txt`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6/6.1-Forum-tematico-postagem.txt))
+- Avançar na **Semana 6 de Matemática Básica (MMB002)**: Assistir e sintetizar as **Videoaulas 17 e 18** (Profª Rúbia Amaral) e vídeos-base.
+
 
 
