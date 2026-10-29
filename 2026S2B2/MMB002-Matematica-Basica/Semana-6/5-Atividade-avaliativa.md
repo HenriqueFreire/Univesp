@@ -18,7 +18,7 @@
 | **3** | Papel e influência dos coeficientes $a, b, c$ na parábola | **A** | **I, II e III, apenas.** | 1,25 / 1,25 |
 | **4** | Lucro máximo da função quadrática $L(x) = -5x^2 + 50x - 80$ | **C** | **O valor máximo é de 45 mil reais.** | 1,25 / 1,25 |
 | **5** | Associação entre funções afins e inclinação / ponto de corte em $Oy$ | **B** | **I-D; II-C; III-B; IV-A.** | 1,25 / 1,25 |
-| **6** | Pontos de intersecção da função quadrática $f(x) = 2x^2 - 4x - 6$ com o eixo $x$ | **B** | **$(-1,0)$ e $(3,0)$** *(ou D: $(3,0)$ e $(-1,0)$)* | 1,25 / 1,25 |
+| **6** | Pontos de intersecção da função quadrática $f(x) = 2x^2 - 4x - 6$ com o eixo $x$ | **D** | **$(3,0)$ e $(-1,0)$** *(Nota: gabarito do AVA cadastra o ramo positivo primeiro)* | 1,25 / 1,25 |
 | **7** | Lacunas da teoria geral: entrada, saída efetiva e saída admissível | **A** | **1 - domínio; 2 - imagem; 3 - contradomínio.** | 1,25 / 1,25 |
 | **8** | Lacunas da função polinomial de 1º grau $f(x) = ax + b$ | **A** | **1) eixo y; 2) $-b/a$ ($-ba$); 3) reta.** | 1,25 / 1,25 |
 | **TOTAL** | **Aproveitamento Pleno** | — | **8 de 8 questões corretas** | **10,00 / 10,00** |
@@ -229,10 +229,10 @@
    Como estão sobre o eixo $x$, a ordenada é nula ($y = 0$):
    $$P_1 = (-1, 0) \quad \text{e} \quad P_2 = (3, 0)$$
 
-> 💡 **Nota sobre a Ordem dos Pontos:**  
-> A Alternativa **B** apresenta os pontos em ordem crescente de abscissa: $(-1, 0)$ e $(3, 0)$, sendo a convenção padrão em matemática. A Alternativa **D** inverte a ordem: $(3, 0)$ e $(-1, 0)$. Ambas descrevem rigorosamente o mesmo conjunto de pontos, sendo **B** a alternativa canônica do gabarito.
+> ⚠️ **Atenção ao Gabarito do AVA:**  
+> O formulário da Univesp apresenta tanto a opção com $(-1, 0)$ e $(3, 0)$ quanto a opção com $(3, 0)$ e $(-1, 0)$. O gabarito oficial cadastrado no sistema considera a ordem em que a raiz positiva é obtida primeiro na fórmula ($x_1 = \frac{4+8}{4} = 3$ e $x_2 = \frac{4-8}{4} = -1$). Portanto, a chave correta pontuada pelo sistema é a **Alternativa D: $(3,0)$ e $(-1,0)$**.
 
-* **Gabarito Oficial:** **Alternativa B ($(-1,0)$ e $(3,0)$)** *(ou D)*
+* **Gabarito Oficial do AVA:** **Alternativa D ($(3,0)$ e $(-1,0)$)**
 
 ---
 
