@@ -2,7 +2,7 @@
 
 > **Bimestre:** 2º Semestre de 2026 — 2º Bimestre (Bimestre Par)  
 > **Curso:** Bacharelado em Engenharia de Computação (Univesp)  
-> **Última Atualização:** 27 de outubro de 2026  
+> **Última Atualização:** 29 de outubro de 2026  
 
 ---
 
@@ -26,8 +26,8 @@ flowchart TD
   * [**Semana 2** (05/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-2): Fundamentos da metodologia científica e técnicas de pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 3** (12/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-3): Comunicação científica: rigor e ética em pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 4** (19/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4): Organização de trabalho científico — **CONCLUÍDO (10,0 / 10,0)** 🟢
-  * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5): Base de dados científicos (fontes quantitativas e qualitativas)
-  * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-6): Desenvolvimento e planejamento do projeto de pesquisa
+  * [**Semana 5** (26/10)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5): Base de dados científicos (fontes quantitativas e qualitativas) — **CONCLUÍDO (10,0 / 10,0)** 🟢
+  * [**Semana 6** (02/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-6): Desenvolvimento e planejamento do projeto de pesquisa — **CONCLUÍDO (10,0 / 10,0)** 🟢
   * [**Semana 7** (09/11)](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-7): Revisão da disciplina
 * [ ] [`MMB002-Matematica-Basica/`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/): **80h** (10h/semana) — *Números, Relações, Equivalências, Proporcionalidade, Equações, Funções e Estatística* (Profª Dra. Rúbia Barcelos Amaral).
   * Critério de Avaliação: $MF = 0,6 \times N_1 + 0,4 \times N_2$
@@ -43,7 +43,11 @@ flowchart TD
 ---
 
 ## ⏳ Próximos Passos
-- Realizar a postagem no **Fórum Temático da Semana 4 de INT100** no AVA ([`4.2-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4/4.2-Forum-tematico.md)).
-- Realizar a postagem no **Fórum Temático da Semana 5 de MMB002** no AVA ([`6-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5/6-Forum-tematico.md)).
-- Iniciar os estudos da **Semana 5 de INT100** (início em 26/10): *Bases de dados científicos (fontes quantitativas e qualitativas)*.
+- Realizar as postagens pendentes nos Fóruns Temáticos no AVA:
+  - INT100 Semana 4 ([`4.2-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-4/4.2-Forum-tematico.md))
+  - INT100 Semana 5 ([`4.3-Forum-tematico-postagem.txt`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-5/4.3-Forum-tematico-postagem.txt))
+  - INT100 Semana 6 ([`4.1-Forum-tematico-postagem.txt`](file:///home/henrique/Modelos/Univesp/2026S2B2/INT100-Projetos-e-Metodos-para-a-Producao-do-Conhecimento/Semana-6/4.1-Forum-tematico-postagem.txt))
+  - MMB002 Semana 5 ([`6-Forum-tematico.md`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-5/6-Forum-tematico.md))
+- Iniciar a **Semana 6 de Matemática Básica (MMB002)**: *Funções: conceitos e representações* ([`Semana-6/`](file:///home/henrique/Modelos/Univesp/2026S2B2/MMB002-Matematica-Basica/Semana-6)).
+
 

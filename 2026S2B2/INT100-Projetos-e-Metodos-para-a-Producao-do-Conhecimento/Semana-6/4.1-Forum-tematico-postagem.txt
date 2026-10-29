@@ -1,0 +1,30 @@
+================================================================================
+FÓRUM TEMÁTICO — SEMANA 6 (INT100) — UNIVESP
+TÍTULO: A Concretização do Projeto de Pesquisa: Da Formulação do Problema à Governança Bioética na Engenharia de Computação
+================================================================================
+
+Olá, professora Graziella, professora Darlene e caros colegas!
+
+A concretização da escrita do projeto de pesquisa representa o momento decisivo em que a inquietação intelectual abandona a abstração e ganha contornos de método, rigor e viabilidade operacional. Como bem enfatizou a Profª Darlene Ferreira na Videoaula 7, e corroboram Cervo, Bervian e Silva (2007), projetar significa antever e metodizar. Não se ingressa no laboratório ou no campo empírico sem antes planejar o todo, pois o projeto científico não é mera formalidade burocrática, mas um mapa de navegação e um verdadeiro contrato epistêmico entre o pesquisador, a comunidade científica e as agências de fomento.
+
+Ao estruturar o planejamento segundo as cinco perguntas fundamentais (O quê? Por quê? Para quê? Como? Quando e Quanto?), percebemos que o maior desafio reside na coerência lógica interna entre o problema formulado, as hipóteses, os objetivos e a metodologia. No âmbito da Engenharia de Computação, aplicamos essa matriz ao desenvolvimento de sistemas inteligentes em saúde:
+
+1. O quê? (Problema e Delimitação): As redes neurais convolucionais (CNNs) atingem alta acurácia na detecção de patologias em radiografias torácicas, porém operam como "caixas-pretas" (black-box models). Diante disso, nosso problema indaga: em que medida a incorporação de mapas visuais de explicabilidade (Grad-CAM) eleva a acurácia diagnóstica quantitativa e, simultaneamente, assegura a confiança subjetiva e a adesão ética de médicos radiologistas?
+
+2. A Desmistificação da Hipótese Nula (H0): Um dos pontos mais brilhantes destacados nas aulas foi o resgate do valor da refutação. A nossa hipótese de trabalho (H1) sustenta que os mapas Grad-CAM reduzem em ao menos 15% a aceitação de falsos positivos provocados por artefatos técnicos do chassi radiográfico. Todavia, caso os ensaios empíricos demonstrem a hipótese nula (H0) — evidenciando que os mapas visuais não alteram a percepção de segurança ou até introduzem sobrecarga cognitiva —, a pesquisa não perde seu mérito. Na epistemologia científica, provar que uma técnica em voga não produz os efeitos clínicos esperados é um resultado tão nobre e valioso quanto a confirmação, poupando a comunidade médica de adotar tecnologias inócuas ou enganosas.
+
+3. Para quê? (Objetivos Claros e Escaláveis): O objetivo geral define o propósito maior (conceber, implementar e avaliar o protótipo de auxílio diagnóstico com explicabilidade), enquanto os objetivos específicos traçam as etapas operacionais em verbos no infinitivo: desde o treinamento matemático em bases abertas (Stanford CheXpert e NIH ChestX-ray14), passando pelo desenvolvimento do módulo Grad-CAM, até a condução de testes de usabilidade com especialistas humanos.
+
+4. Por quê e Como? (Justificativa e Métodos Mistos): A justificativa ancora-se no Marco Regulatório da OMS para Inteligência Artificial em Saúde (2021), que exige a preservação irrestrita da autonomia médica e a explicabilidade algorítmica. Para responder a essa complexidade, adotamos uma abordagem de Métodos Mistos (Mixed Methods): o polo quantitativo mensura sensibilidade, especificidade e ROC-AUC; o polo qualitativo aplica a História Oral Temática e a Análise Textual Discursiva (ATD) sobre os relatos dos radiologistas, avaliando sentimentos de confiança, hesitação e responsabilidade ética.
+
+Em suma, a redação no tempo verbal futuro exigida pela ABNT NBR 15287 lembra-nos constantemente de que o projeto é uma promessa metodológica pautada na viabilidade temporal (cronograma) e orçamentária. Planejar com precisão é a única salvaguarda contra o desperdício de tempo e recursos na produção do conhecimento científico.
+
+Um abraço a todos e excelentes pesquisas!
+
+Referências Bibliográficas:
+• ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR 15287: Informação e documentação — Projeto de pesquisa — Apresentação. Rio de Janeiro: ABNT, 2011.
+• CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto da. Metodologia científica. 6. ed. São Paulo: Pearson Prentice Hall, 2007. (Capítulo 6: O planejamento da pesquisa).
+• LITJENS, Geert et al. A survey on deep learning in medical image analysis. Medical Image Analysis, Amsterdam, v. 42, p. 60-88, Dec. 2017. DOI: 10.1016/j.media.2017.07.005.
+• MORAES, Roque; GALIAZZI, Maria do Carmo. Análise textual discursiva: processo reconstrutivo de múltiplas faces. Ciência & Educação, Bauru, v. 12, n. 1, p. 117-128, 2006.
+• SELVARAJU, Ramprasaath R. et al. Grad-CAM: visual explanations from deep networks via gradient-based localization. In: IEEE INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV), 2017, Venice. Proceedings [...] Piscataway: IEEE, 2017. p. 618-626. DOI: 10.1109/ICCV.2017.74.
+• WORLD HEALTH ORGANIZATION (WHO). Ethics and governance of artificial intelligence for health: WHO guidance. Geneva: WHO, 2021. 150 p.
