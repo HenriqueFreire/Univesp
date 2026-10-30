@@ -11,7 +11,7 @@ Este plano organiza os **14 livros selecionados na Biblioteca Virtual da UNIVESP
 flowchart TD
     subgraph F1["Fase 1: Fundação Matemática & Computacional (1º e 2º Semestres)"]
         L1["1. Princípios e Práticas de Programação com C++<br><i>Bjarne Stroustrup</i>"]
-        L2["2. Pré-Cálculo: Matemática para o Cálculo<br><i>James Stewart, Lothar Redlin, Saleem Watson</i>"]
+        L2["2. Pré-Cálculo<br><i>Franklin D. Demana et al. (Pearson)</i>"]
         L3["3. Cálculo: Volume 1<br><i>George B. Thomas et al.</i>"]
     end
 
@@ -51,9 +51,9 @@ flowchart TD
 * **Por que começar por ele:** É o livro fundamental de introdução à ciência da computação e engenharia. Ensina boas práticas de código, gerenciamento de memória (*Stack* vs *Heap*), ponteiros, vetores e modularização.
 * **Disciplinas UNIVESP:** *Pensamento Computacional (COM100)*, *Algoritmos e Programação de Computadores I*.
 
-### 2. Pré-Cálculo: Matemática para o Cálculo
-* **Autores:** James Stewart, Lothar Redlin, Saleem Watson (ou *Pré-Cálculo*, Valéria Zuma Medeiros)
-* **Por que estudar agora:** Resolve o maior causador de reprovações em Engenharia: a falta de fluência em manipulação algébrica, frações, fatoração, inequações, domínio e imagem de funções, polinômios, funções exponenciais, logaritmos e ciclo trigonométrico. Prepara o terreno indispensável para o Cálculo de Thomas.
+### 2. Pré-Cálculo
+* **Autores:** Franklin D. Demana, Bert K. Waits, Gregory D. Foley, Daniel Kennedy (Pearson / Biblioteca Virtual UNIVESP)
+* **Por que estudar agora:** Resolve o maior causador de reprovações em Engenharia: a falta de fluência em manipulação algébrica, frações, fatoração, inequações, domínio e imagem de funções, polinômios, funções exponenciais, logaritmos e ciclo trigonométrico. O livro de Demana é amplamente reconhecido pela abordagem gráfica, visual e computacional de modelagem de funções, preparando o terreno de forma contínua e em perfeita harmonia pedagógica com o Cálculo de Thomas (ambos adotam o padrão editorial e notação da Pearson).
 * **Disciplinas UNIVESP:** *Matemática Básica (MMB002)*, *Fundamentos Matemáticos para Computação*.
 
 ### 3. Cálculo: Volume 1
@@ -133,7 +133,7 @@ flowchart TD
 | Ordem | Livro / Assunto | Autor(es) | Fase | Pré-requisito Principal |
 | :---: | :--- | :--- | :---: | :--- |
 | **01** | **Princípios e Práticas com C++** | Bjarne Stroustrup | 1 | Lógica básica |
-| **02** | **Pré-Cálculo** | James Stewart et al. / Valéria Zuma | 1 | Matemática Básica / Álgebra Fundamental |
+| **02** | **Pré-Cálculo** | Franklin D. Demana et al. (Pearson) | 1 | Matemática Básica / Álgebra Fundamental |
 | **03** | **Cálculo: Volume 1** | George B. Thomas et al. | 1 | Pré-Cálculo e Funções |
 | **04** | **Probabilidade e Estatística: Engenharias** | Ronald E. Walpole et al. | 2 | Cálculo I e Álgebra |
 | **05** | **Fundamentos de Probabilidade e Estatística** | Cahue Sbrana | 2 | Cálculo I |
