@@ -10,27 +10,27 @@
 
 int main()
 {
-    // 1. Iniciando vazio e expandindo com push_back()
-    std::vector<double> v; // começa vazio; sem nenhum elemento
+    // 1. Starting empty and growing with push_back()
+    std::vector<double> v; // starts empty; no elements
 
     v.push_back(2.7);
     v.push_back(5.6);
     v.push_back(7.9);
 
-    std::cout << "Valores adicionados manualmente a v (tamanho: " << v.size() << "):\n";
+    std::cout << "Values added manually to v (size: " << v.size() << "):\n";
     for (double x : v) {
         std::cout << x << '\n';
     }
 
-    // 2. Lendo valores dinamicamente a partir da entrada padrão (cin)
-    std::cout << "\nDigite temperaturas/numeros (digite '|' ou caractere nao numerico para encerrar):\n";
+    // 2. Reading values dynamically from standard input (cin)
+    std::cout << "\nEnter numbers/temperatures (enter '|' or non-numeric character to terminate):\n";
     std::vector<double> temps;
 
     for (double temp; std::cin >> temp; ) {
-        temps.push_back(temp); // insere cada valor no final do vetor
+        temps.push_back(temp); // append each value to the end of the vector
     }
 
-    std::cout << "\nVoce digitou " << temps.size() << " valores:\n";
+    std::cout << "\nYou entered " << temps.size() << " values:\n";
     for (double t : temps) {
         std::cout << t << '\n';
     }

@@ -6,43 +6,43 @@
 // Chapter 3: Computation
 // Section 3.6.3: A numeric example (Pages 74-76)
 //
-// Lê temperaturas via cin, compara o padrão while vs for,
-// e calcula a temperatura média e a mediana com std::ranges::sort.
+// Reads temperatures via cin, demonstrates the idiomatic 'for' input pattern,
+// and computes the average (mean) and median temperature using std::ranges::sort.
 
 int main()
 {
     // -------------------------------------------------------------------------
-    // 1. Leitura Idiomática com loop 'for' (versus 'while')
+    // 1. Idiomatic input loop using 'for' (versus 'while')
     // -------------------------------------------------------------------------
-    // Em vez de 'double temp; while (cin >> temp)', o Stroustrup recomenda
-    // declarar 'temp' diretamente no cabeçalho do 'for' para isolar seu escopo:
+    // Instead of 'double temp; while (cin >> temp)', Stroustrup recommends
+    // declaring 'temp' directly in the 'for' header to restrict its scope:
     std::vector<double> temps;
 
-    std::cout << "Digite as temperaturas (digite '|' para encerrar):\n";
+    std::cout << "Enter temperatures (enter '|' or non-numeric character to terminate):\n";
     for (double temp; std::cin >> temp; ) {
         temps.push_back(temp);
     }
 
-    // Guarda defensiva: previne divisão por zero caso nenhum número seja digitado
+    // Defensive guard: prevents division by zero if no values were entered
     if (temps.empty()) {
-        std::cout << "Nenhuma temperatura foi informada.\n";
+        std::cout << "No temperatures provided.\n";
         return 0;
     }
 
     // -------------------------------------------------------------------------
-    // 2. Temperatura Média
+    // 2. Average (Mean) Temperature
     // -------------------------------------------------------------------------
     double sum = 0.0;
     for (double x : temps) {
         sum += x;
     }
-    std::cout << "Temperatura media: " << (sum / temps.size()) << '\n';
+    std::cout << "Average temperature: " << (sum / temps.size()) << '\n';
 
     // -------------------------------------------------------------------------
-    // 3. Mediana com std::ranges::sort (C++20 / C++23)
+    // 3. Median Temperature with std::ranges::sort (C++20 / C++23)
     // -------------------------------------------------------------------------
-    std::ranges::sort(temps); // ordena os elementos em ordem crescente
-    std::cout << "Temperatura mediana: " << temps[temps.size() / 2] << '\n';
+    std::ranges::sort(temps); // sort elements in ascending order
+    std::cout << "Median temperature: " << temps[temps.size() / 2] << '\n';
 
     return 0;
 }

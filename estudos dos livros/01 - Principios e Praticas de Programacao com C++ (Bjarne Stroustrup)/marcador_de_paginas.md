@@ -9,11 +9,11 @@
 
 ## 📌 Marcador Atual
 
-- **Última Leitura:** `2026-10-24`
+- **Última Leitura:** `2026-10-30`
 - **Capítulo Atual:** Cap. 03 — Computação (Expressões, Instruções, Funções) / *Computation*
-- **Página Atual:** Página 76 (Seção 3.6.3: Estudo numérico com `vector`, média e mediana)
+- **Página Atual:** Página 77 (Seção 3.6.4: Dicionário com `vector<string>` e Try This - Filtro BLEEP)
 - **Status Geral:** ⏳ Em andamento
-- **Próximo Ponto:** Seção 3.6.4 — *A text example* (Dicionário com `vector<string>`) e Try This (BLEEP)
+- **Próximo Ponto:** Seção 3.7 / Drill do Capítulo 3 (p. 78–82)
 
 ---
 
@@ -91,3 +91,4 @@
 | `2026-10-12` | Cap. 03: Computação | p. 53–73 | Estudo detalhado: `const` vs `constexpr`, seleção com `if`/`switch` ([ch03_cm_per_inch.cpp](exemplos/ch03_cm_per_inch.cpp), [ch03_cm_per_inch_switch.cpp](exemplos/ch03_cm_per_inch_switch.cpp)), Try This de conversor de moedas com 5 moedas ([ch03_try_this_currency_converter.cpp](try_this/ch03_try_this_currency_converter.cpp), [ch03_try_this_currency_converter_switch.cpp](try_this/ch03_try_this_currency_converter_switch.cpp)), repetição `while`/`for` com tabela EDSAC ([ch03_table_of_squares.cpp](exemplos/ch03_table_of_squares.cpp), [ch03_table_of_squares_for.cpp](exemplos/ch03_table_of_squares_for.cpp)), tabelas de caracteres/ASCII com `while` e `for` ([ch03_try_this_char_table.cpp](try_this/ch03_try_this_char_table.cpp), [ch03_try_this_char_table_for.cpp](try_this/ch03_try_this_char_table_for.cpp)), função `square()` por adições sucessivas ([ch03_try_this_square_by_addition.cpp](try_this/ch03_try_this_square_by_addition.cpp)), declarações vs definições de funções ([ch03_function_declaration.cpp](exemplos/ch03_function_declaration.cpp)), e introdução ao contêiner `std::vector` (inicialização, índices, range-for, `push_back`) em [ch03_vector_intro.cpp](exemplos/ch03_vector_intro.cpp) e [ch03_vector_push_back.cpp](exemplos/ch03_vector_push_back.cpp). |
 | `2026-10-24` | Cap. 03: Computação | p. 73–76 | Seção 3.6.3: Estudo numérico com `std::vector`, comparação entre leitura com `while` vs `for`, cálculo de média e mediana utilizando `std::ranges::sort` ([ch03_vector_temperatures.cpp](exemplos/ch03_vector_temperatures.cpp)). |
 | `2026-10-30` | Unificação com Univesp | — | Centralização completa dos códigos práticos, exercícios, Try This, ambiente Nix Flake C++23 e histórico no repositório oficial da Univesp. |
+| `2026-10-30` | Cap. 03: Computação | p. 76–77 | Seção 3.6.4: Estudo de dicionário com `std::vector<std::string>` e conclusão do Try This da página 77: filtro de palavras censuradas (*BLEEP*) com `std::ranges::contains` ([ch03_try_this_bleep.cpp](try_this/ch03_try_this_bleep.cpp) e anotação teórica [cap03_p77_tente_isso_bleep.md](anotacoes/cap03_p77_tente_isso_bleep.md)). |

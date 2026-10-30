@@ -38,6 +38,8 @@
             ];
 
             shellHook = ''
+              # Corrige caminhos com espaços no NIX_LDFLAGS para os wrappers do GCC/Clang
+              export NIX_LDFLAGS="''${NIX_LDFLAGS#-rpath *outputs/out/lib}"
               echo "🚀 C++23 Development Environment (PPP3 - Bjarne Stroustrup)"
               echo "Compiler: $(g++ --version | head -n 1)"
               echo "Clang:    $(clang++ --version | head -n 1)"

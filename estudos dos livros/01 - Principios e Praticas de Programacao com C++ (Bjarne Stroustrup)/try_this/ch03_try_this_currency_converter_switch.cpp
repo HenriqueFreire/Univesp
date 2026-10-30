@@ -10,12 +10,12 @@
 
 int main()
 {
-    // Taxas de conversão aproximadas para Dólar (USD)
-    constexpr double dollars_per_yen = 0.0067;   // 1 Iene   ~ 0.0067 USD
-    constexpr double dollars_per_euro = 1.09;    // 1 Euro   ~ 1.09 USD
-    constexpr double dollars_per_pound = 1.31;   // 1 Libra  ~ 1.31 USD
-    constexpr double dollars_per_yuan = 0.14;    // 1 Yuan   ~ 0.14 USD
-    constexpr double dollars_per_krone = 0.095;  // 1 Coroa  ~ 0.095 USD
+    // Approximate conversion rates to US Dollars (USD)
+    constexpr double dollars_per_yen = 0.0067;   // 1 Yen   ~ 0.0067 USD
+    constexpr double dollars_per_euro = 1.09;    // 1 Euro  ~ 1.09 USD
+    constexpr double dollars_per_pound = 1.31;   // 1 Pound ~ 1.31 USD
+    constexpr double dollars_per_yuan = 0.14;    // 1 Yuan  ~ 0.14 USD
+    constexpr double dollars_per_krone = 0.095;  // 1 Krone ~ 0.095 USD
 
     double amount = 0.0;
     char currency = ' ';

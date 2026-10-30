@@ -9,9 +9,9 @@
 // before their implementation appears in the file.
 
 // -------------------------------------------------------------
-// 1. DECLARAÇÕES DE FUNÇÕES (Protótipos)
-// Informam ao compilador o tipo de retorno, nome e parâmetros.
-// Note o ponto e vírgula no final (sem corpo {}).
+// 1. FUNCTION DECLARATIONS (Prototypes)
+// Inform the compiler of the return type, name, and parameters.
+// Note the semicolon at the end (no function body {}).
 // -------------------------------------------------------------
 int square(int x);
 double area(double width, double height);
@@ -19,7 +19,7 @@ void print_square(int val);
 
 int main()
 {
-    // O compilador valida essas chamadas consultando apenas as declarações acima:
+    // The compiler validates these calls using only the declarations above:
     int x = 7;
     print_square(x);
 
@@ -31,9 +31,9 @@ int main()
 }
 
 // -------------------------------------------------------------
-// 2. DEFINIÇÕES DE FUNÇÕES (Implementações)
-// Aqui fornecemos o corpo real {} de cada função.
-// Podem ficar abaixo da main() ou até em outro arquivo fonte (.cpp).
+// 2. FUNCTION DEFINITIONS (Implementations)
+// Here we provide the actual body {} of each function.
+// These can be placed below main() or in separate source files (.cpp).
 // -------------------------------------------------------------
 
 int square(int x)
