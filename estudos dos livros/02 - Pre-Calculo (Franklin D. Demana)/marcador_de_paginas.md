@@ -11,7 +11,7 @@
 
 - **Última Leitura:** `2026-10-30`
 - **Capítulo Atual:** Cap. 01 — Conjuntos Numéricos e os Números Reais
-- **Página Atual:** p. 1–25 (Fundamentos, Fatoração, Expressões Fracionárias e Exercícios)
+- **Página Atual:** Página 7 (Exemplos 1 a 6 concluídos: Formas Decimais, Desigualdades, Notação de Intervalos e Distância/Valor Absoluto)
 - **Status Geral:** ⏳ Em andamento
 
 ---
@@ -21,7 +21,7 @@
 ### 🔹 Parte 1: Introdução & Fundamentos Numéricos
 | Cap. | Título do Capítulo | Tópicos-Chave | Status | Data de Conclusão |
 | :--: | :--- | :--- | :---: | :---: |
-| 1 | Conjuntos Numéricos e os Números Reais | Representação, ordem na reta, notação de intervalo, propriedades algébricas, expoentes, notação científica, radicais, polinômios e expressões fracionárias | ⏳ Em andamento | |
+| 1 | Conjuntos Numéricos e os Números Reais | Representação, ordem na reta, notação de intervalo, propriedades algébricas, expoentes, notação científica, radicais, polinômios e expressões fracionárias | ⏳ Em andamento (até p. 7) | |
 
 ---
 
@@ -61,4 +61,4 @@
 
 | Data | Capítulo / Seção | Páginas Lidas | Notas / Observações |
 | :---: | :---: | :---: | :--- |
-| `2026-10-30` | Cap. 01: Conjuntos e Reais | p. 1–25 | Início oficial do livro de Demana (Pearson). Síntese em `anotacoes/cap01_conjuntos_numericos_e_numeros_reais.md`, 5 exercícios detalhados em `exercicios/cap01_exercicios_resolvidos.md` e script de validação analítico-numérica em C++20 (`exemplos/cap01_fundamentos_reais.cpp`). |
+| `2026-10-30` | Cap. 01: Seções 1.1 e 1.2 | p. 1–7 | Leitura e estudo aprofundado das páginas 1 a 7 de Demana (Pearson). Formalização dos Exemplos 1 a 6 em `exemplos/cap01_exemplos_paginas_1_a_7.md` e implementação/validação em C++20 (`exemplos/cap01_exemplos_1_a_6.cpp`). Próxima meta: página 8 (Propriedades Básicas da Álgebra). |
